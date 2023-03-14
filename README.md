@@ -1,5 +1,8 @@
 > sorry for non-Korean visitors! This is a library for Hangul, the Korean alphabet, so Readme.md and all functions are provided in only Korean.
 
+> Departed: AutoHotkey v1.1 is departed now, So I will update a different repository with the new libraries that available in AHK v2.<br>New repo: https://github.com/devPnal/every-hangul-v2
+
+> 오토핫키 v1.1 버전이 더이상 나오지 않으므로, v2에 대응되는 새 라이브러리를 다른 저장소에 업데이트 할 예정입니다.<br>새 저장소: https://github.com/devPnal/every-hangul-v2
 # 모두의 한글
 
 ## 소개
@@ -15,6 +18,7 @@
 
 ## 사용 환경
 오토핫키 v1.1.31 이상 버전에서 작동합니다.
+(v2 버전은 https://github.com/devPnal/every-hangul-v2 에서 사용 가능합니다.)
 
 
 따라서, 2019년 10월 이전에 오토핫키를 다운로드 하신 분들은 최신 버전으로 업데이트 해주세요. (https://autohotkey.com)  
@@ -55,7 +59,4 @@ MIT 라이선스를 따릅니다.
 위 요약은 요약일 뿐이며, 전문 라이선스는 LICENSE 파일을 참고하시길 바랍니다.
 
 ## 연락처
-이메일: contact@pnal.dev  
-프날 오토핫키 질문/답변란: https://pnal.kr/guestbook
-
-아무 경로나 문의 주세요
+이메일: contact@pnal.dev
