@@ -1,6 +1,6 @@
 > sorry for non-Korean visitors! This is a library for Hangul, the Korean alphabet, so Readme.md and all functions are provided in only Korean.
 
-> Departed: AutoHotkey v1.1 is departed now, So I will update a different repository with the new libraries that available in AHK v2.<br>New repo: https://github.com/devPnal/every-hangul-v2
+> deprecated: AutoHotkey v1.1 is deprecated now, So I will update a different repository with the new libraries that available in AHK v2.<br>New repo: https://github.com/devPnal/every-hangul-v2
 
 > 오토핫키 v1.1 버전이 더이상 나오지 않으므로, v2에 대응되는 새 라이브러리를 다른 저장소에 업데이트 할 예정입니다.<br>새 저장소: https://github.com/devPnal/every-hangul-v2
 # 모두의 한글
