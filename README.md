@@ -1,9 +1,13 @@
-> sorry for non-Korean visitors! This is a library for Hangul, the Korean alphabet, so Readme.md and all functions are provided in only Korean.
-> **But, the v2 repository and library is also available in English.**
+> The v2 repository and library is also available in English.
 
-> Deprecated: AutoHotkey v1.1 is deprecated now, So I will update a different repository with the new libraries that available in AHK v2.<br>New repo: https://github.com/devPnal/every-hangul-v2
+> **Deprecated**: AutoHotkey v1.1 is deprecated now, So I will update a different repository with the new libraries that available in AHK v2.<br>
+> **버전 지원 종료됨**: 오토핫키 v1.1 버전이 더이상 나오지 않으므로, v2에 대응되는 새 라이브러리를 다른 저장소에 업데이트 할 예정입니다.
 
-> 오토핫키 v1.1 버전이 더이상 나오지 않으므로, v2에 대응되는 새 라이브러리를 다른 저장소에 업데이트 할 예정입니다.<br>새 저장소: https://github.com/devPnal/every-hangul-v2
+New repo: https://github.com/devPnal/HanulModu
+
+> The new library supports all language that can use dll file.
+> 새 라이브러리 파일은 dll 파일을 사용할 수 있는 모든 언어에 대응됩니다.
+
 # 모두의 한글
 
 ## 소개
