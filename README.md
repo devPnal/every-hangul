@@ -5,9 +5,6 @@
 
 New repo: https://github.com/devPnal/HanulModu
 
-> The new library supports all language that can use dll file.
-> 새 라이브러리 파일은 dll 파일을 사용할 수 있는 모든 언어에 대응됩니다.
-
 # 모두의 한글
 
 ## 소개
